@@ -1,0 +1,8 @@
+cd "C:\Users\митски\Desktop\практисы\практис9\mickeys_clock"
+py -3.11 main.py
+
+cd "C:\Users\митски\Desktop\практисы\практис9\moving_ball"
+py -3.11 main.py
+
+cd "C:\Users\митски\Desktop\практисы\практис9\music_player"
+py -3.11 main.py
